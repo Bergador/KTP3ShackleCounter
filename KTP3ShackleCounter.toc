@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: KTP3ShackleCounter
+## Version: 1.00
+## Notes: Keeps track of the number of shackles on the Kel'Thuzad encounter phase 3.
+## SavedVariablesPerCharacter: ShackleCounterEnabled
+## Dependencies: 
+
+KTP3ShackleCounter.lua
